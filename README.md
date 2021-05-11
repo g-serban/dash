@@ -1,1 +1,1 @@
-# dash
+# finally learned how to properly use virtual environments, .gitignore and pip freeze > requirements.txt
